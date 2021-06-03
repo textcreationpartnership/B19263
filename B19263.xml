@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At the court at Oxford, the sixt of October 1665, present the King's Most Excellent Majesty ... His Majesty taking into His Royall consideration and princely care the preventing (by Gods blessing) as much as may be, any growth of the infection, so dreadfully spread in other places from this his city of Oxford ...</title>
+            <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19263</idno><idno type="EEBO-CITATION">19735691</idno>
+  <idno type="VID">205631</idno>
+  <idno type="EEBO-PROQUEST">2240861457</idno>
+  
+            <idno type="STC">Wing C2921</idno>
+            <idno type="OCLC">19735691</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1697:47)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At the court at Oxford, the sixt of October 1665, present the King's Most Excellent Majesty ... His Majesty taking into His Royall consideration and princely care the preventing (by Gods blessing) as much as may be, any growth of the infection, so dreadfully spread in other places from this his city of Oxford ...</title>
+                  <author>England and Wales. Sovereign (1660-1685 : Charles II)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>England and Wales. Privy Council.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Other title information taken from first four lines of text.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685.</term>
+               <term type="geographic_name">Plague --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:205631:1"/>
+            <head>
+               <figure>
+                  <figDesc>crowned blazon or coat of arms of the British royal family</figDesc>
+                  <head>
+                     <q>HONI SOIT QVI MAL Y PENSE</q>
+                  </head>
+                  <p>C. R.</p>
+               </figure> AT THE COURT AT OXFORD, The Sixt of October 1665.</head>
+            <p>Present
+<list>
+                  <item>
+                     <hi>The KING's most Excellent Majesty.</hi>
+                  </item>
+                  <item>
+                     <hi>His Royall Highness the DƲKE of YORKE.</hi>
+                  </item>
+                  <item>
+                     <hi>His Highness PRINCE RƲPERT.</hi>
+                  </item>
+                  <item>
+                     <hi>Lord</hi> Chancellour.</item>
+                  <item>
+                     <hi>Lord</hi> Treasurer.</item>
+                  <item>
+                     <hi>Lord</hi> Chamberlain.</item>
+                  <item>
+                     <hi>Earle of</hi> Lauderdail.</item>
+                  <item>
+                     <hi>Lord Ʋiscount</hi> Fitzharding.</item>
+                  <item>
+                     <hi>Lord</hi> Arlington.</item>
+                  <item>
+                     <hi>Lord</hi> Berkley.</item>
+                  <item>
+                     <hi>Mr. Secretary</hi> Morice.</item>
+                  <item>
+                     <hi>Sr,</hi> William Coventrie.</item>
+               </list>
+            </p>
+            <p>
+               <seg rend="decorInit">H</seg>IS Majesty taking into His Royall Consideration and Princely Care the preventing (by Gods blessing) as much as may be, any growth of the Infection, so dreadfully spread in other places, from this His City of <hi>Oxford,</hi> which without strict Regulation may likewise fall into the same Sad Calamityes by the concourse of Persons Diseased, under pretence of vending Commodities, or of having buisness to the Parliament, or to attend His most Honorable Privy Councel, or other like occasions; Hath therefore been gratiously pleased to Declare, and by, and with the advice of His most Hono<g ref="char:EOLhyphen"/>rable Privy Councel doth Order, that the Care and Trust of allowing and approving Certificats, whereby the stay of any Person in this City shall be warranted be Committed unto the Persons, and disposed in the Method following.</p>
+            <p>
+               <hi>First,</hi> That all Certificats which concern, or relate to any Members of Parliament, and their re<g ref="char:EOLhyphen"/>spective Retinues, with all those who belong to this University, be wholely referred to the care of the <hi>Ʋice-Chancellour,</hi> or his Deputy, and to such whom he shall intrust.</p>
+            <p>
+               <hi>Secondly,</hi> That all Persons whatsoever who shall come with, or bring into this City, any Wares, Commodities, or Provisions to be here vended or exposed to Sale; And all Gentlemen, and others who shall come out of the Country (not being Members of the Parliament) be wholley re<g ref="char:EOLhyphen"/>ferred to the <hi>Major</hi> of this City, and such as he shall call to his assistance.</p>
+            <p>
+               <hi>Thirdly,</hi> That all Persons belonging unto His Majesties Court, or pretending any buisness re<g ref="char:EOLhyphen"/>lateing unto the same, be referred to the Examination of the Officers of His Majesties <hi>Green-Cloath,</hi> or to His <hi>Knight Marshall.</hi>
+            </p>
+            <p>
+               <hi>Fourthly,</hi> That a generall Search and Inquiry be forthwith made in every Parish within this City, and Suburbs thereof by the <hi>Ʋice-Chancellour</hi> of the University, and <hi>Major</hi> of the City of <hi>Oxford;</hi> and the Names of all Persons, and their Qualities Lodged and Quartered in every parti<g ref="char:EOLhyphen"/>cular house, and exact Lists of them be drawn &amp; delivered to the Cheif Officers before mentioned, who are to represent the same to the Right Honorable the <hi>Lord High Chancellour of England</hi> and <hi>Chancellour of this Ʋniversity</hi> to be considered of, unto whose wisedom it is referred, to the end that all unnecessary Persons may be (by Proclamation, or such other waies as shall be thought fit) removed, and sent out of this City.</p>
+            <closer>
+               <signed>Robert Southwell.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Oxford, <hi>Printed by</hi> Leonard Lichfield, <hi>Printer to the Ʋniversity.</hi> Anno Dom. 1665.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
